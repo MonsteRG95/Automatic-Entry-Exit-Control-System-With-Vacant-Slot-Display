@@ -1,12 +1,11 @@
-# Display Module
+# Exit Module
 
-Shows system data on screen.
+Handles detection of outgoing vehicles or people.
 
 ## Function
-- Show capacity
-- Show occupied
-- Show vacant
-
+- Detect exit
+- Decrease occupancy
+- Prevent negative values
 
 ## Author
-[GILLIAN KIPTOO]
+[PHILLIP OCHIENG]
